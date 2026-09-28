@@ -23,6 +23,8 @@
   <a href="#installation">How to install (2 minutes)</a>
 </p>
 
+> 💻 **Want Uttr in every app, not just the browser?** Try **[Uttr for Windows](https://github.com/ajayalle10/uttr-desktop)**: select text in Word, PDFs, Outlook or anywhere else, press **Ctrl + Alt + R**, and hear it. [Download the installer](https://github.com/ajayalle10/uttr-desktop/releases/latest/download/Uttr-Setup.exe).
+
 ---
 
 ## Table of contents
