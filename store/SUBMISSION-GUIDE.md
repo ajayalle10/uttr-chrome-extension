@@ -2,7 +2,7 @@
 
 All three stores are **free** to join. Each needs its own account, and you'll submit in each one separately.
 
-**Before you start, download these two files** from the [latest GitHub release](https://github.com/ajayalle10/uttr/releases/latest):
+**Before you start, download these two files** from the [latest GitHub release](https://github.com/ajayalle10/uttr-chrome-extension/releases/latest):
 - `uttr.zip`: for **Edge** and **Opera** (and Chrome later)
 - `uttr-firefox.zip`: for **Firefox** only
 

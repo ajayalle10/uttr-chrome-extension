@@ -33,4 +33,4 @@ If Uttr ever changes how it handles data, this page will be updated before the c
 
 ## Contact
 
-Questions? Open an issue at [github.com/ajayalle10/uttr/issues](https://github.com/ajayalle10/uttr/issues).
+Questions? Open an issue at [github.com/ajayalle10/uttr-chrome-extension/issues](https://github.com/ajayalle10/uttr-chrome-extension/issues).

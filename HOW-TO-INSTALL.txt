@@ -31,4 +31,4 @@ HOW TO USE
 - Press Esc to stop.
 - Click the Uttr icon to change the speed or voice, or to turn it off.
 
-More help: https://github.com/ajayalle10/uttr
+More help: https://github.com/ajayalle10/uttr-chrome-extension

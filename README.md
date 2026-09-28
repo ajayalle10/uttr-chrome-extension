@@ -2,7 +2,7 @@
   <img src="docs/logo.png" alt="Uttr logo" width="110">
 </p>
 
-<h1 align="center">Uttr</h1>
+<h1 align="center">Uttr Chrome Extension</h1>
 
 <p align="center">
   <strong>Select text. Hear it.</strong><br>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ajayalle10/uttr/releases/latest/download/uttr.zip"><strong>⬇ Download Uttr</strong></a>
+  <a href="https://github.com/ajayalle10/uttr-chrome-extension/releases/latest/download/uttr.zip"><strong>⬇ Download Uttr</strong></a>
   &nbsp;·&nbsp;
   <a href="#installation">How to install (2 minutes)</a>
 </p>
@@ -115,7 +115,7 @@ Uttr works in **Google Chrome** and **Microsoft Edge** on Windows, Mac and Linux
 
 **Step 1: Download Uttr**
 
-👉 **[Click here to download `uttr.zip`](https://github.com/ajayalle10/uttr/releases/latest/download/uttr.zip)**
+👉 **[Click here to download `uttr.zip`](https://github.com/ajayalle10/uttr-chrome-extension/releases/latest/download/uttr.zip)**
 
 **Step 2: Unzip it and put the folder somewhere safe**
 
@@ -163,7 +163,7 @@ That's it. Your settings are remembered, even after restarting your computer.
 
 ### Updating to a new version
 
-1. Download the latest [`uttr.zip`](https://github.com/ajayalle10/uttr/releases/latest/download/uttr.zip) and unzip it.
+1. Download the latest [`uttr.zip`](https://github.com/ajayalle10/uttr-chrome-extension/releases/latest/download/uttr.zip) and unzip it.
 2. **Replace** the files in your existing `uttr` folder with the new ones.
 3. Go to `chrome://extensions` (or `edge://extensions`) and click the **↻ reload** icon on the Uttr card.
 
@@ -176,10 +176,10 @@ Go to `chrome://extensions` (or `edge://extensions`), click **Remove** on the Ut
 ### Install from source (for developers)
 
 ```bash
-git clone https://github.com/ajayalle10/uttr.git
+git clone https://github.com/ajayalle10/uttr-chrome-extension.git
 ```
 
-Then follow Steps 3–5 above and select the cloned `uttr` folder. After editing any file, click **↻** on the Uttr card in `chrome://extensions` and refresh the page you're testing on.
+Then follow Steps 3–5 above and select the cloned `uttr-chrome-extension` folder. After editing any file, click **↻** on the Uttr card in `chrome://extensions` and refresh the page you're testing on.
 
 ## Usage
 
@@ -198,7 +198,7 @@ Then follow Steps 3–5 above and select the cloned `uttr` folder. After editing
 ## Project structure
 
 ```
-uttr/
+uttr-chrome-extension/
 ├── manifest.json        Extension configuration: name, permissions, scripts, popup, icons
 ├── defaults.js          Default settings, shared by the content script and the popup
 ├── content.js           Runs on every webpage: detects selections, splits text, speaks
@@ -494,7 +494,7 @@ This creates `dist/uttr.zip` for Chrome, Edge and Opera, and `dist/uttr-firefox.
 
 - GitHub: [@ajayalle10](https://github.com/ajayalle10)
 
-Feedback, bug reports and feature ideas are welcome. Please [open an issue](https://github.com/ajayalle10/uttr/issues).
+Feedback, bug reports and feature ideas are welcome. Please [open an issue](https://github.com/ajayalle10/uttr-chrome-extension/issues).
 
 ---
 

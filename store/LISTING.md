@@ -44,7 +44,7 @@ GREAT FOR
 • Learning pronunciation in a new language
 • Anyone who finds listening easier than reading
 
-Uttr is free and open source: https://github.com/ajayalle10/uttr
+Uttr is free, and its source code is public: https://github.com/ajayalle10/uttr-chrome-extension
 Made by Ajay Alle.
 ```
 
@@ -65,9 +65,9 @@ text to speech, read aloud, tts, speech, accessibility, dyslexia, reader
 ## Links
 | Field | Value |
 |---|---|
-| Website / homepage | `https://github.com/ajayalle10/uttr` |
-| Support URL | `https://github.com/ajayalle10/uttr/issues` |
-| Privacy policy URL | `https://github.com/ajayalle10/uttr/blob/main/PRIVACY.md` |
+| Website / homepage | `https://github.com/ajayalle10/uttr-chrome-extension` |
+| Support URL | `https://github.com/ajayalle10/uttr-chrome-extension/issues` |
+| Privacy policy URL | `https://github.com/ajayalle10/uttr-chrome-extension/blob/main/PRIVACY.md` |
 
 ## Permission justifications
 Stores may ask why each permission is needed:
